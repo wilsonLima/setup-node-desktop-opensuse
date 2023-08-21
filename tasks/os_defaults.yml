@@ -1,0 +1,5 @@
+---
+
+- debug: 
+    msg: Distribuição Linux não suportada
+  register: node_not_opensuse
